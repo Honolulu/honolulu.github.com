@@ -66,8 +66,9 @@ a:hover {
 }
 
 #logo {
-  width: 190px;
-  height: 64px;
+  width: 200px;
+  height: 200px;
+  background: url("logo.png");
   margin: 15px 0 0 15px;
   text-indent: -99999px;
 }
